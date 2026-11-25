@@ -12,6 +12,9 @@ Busco constantemente automatizar procesos, optimizar recursos y explorar el mund
 
 ### 🚀 Proyectos Destacados
 
+#### 🍽️ [Sistema POS Restaurante](https://github.com/paulohdzTI/Sistema-POS-Restaurante)
+Sistema punto de venta para restaurantes con mesas, comandas, cocina, barra y caja en tiempo real. Desarrollado con **Python (FastAPI)** y **SQLite**, con reportes en PDF y Excel y manuales de usuario y programador.
+
 #### 🚁 [Control de Dron Cuadricóptero IoT]
 Proyecto en **C** para un microcontrolador **ESP32**. Implementa control PID, filtrado de datos de un sensor giroscópico MPU6050 y comunicación Bluetooth para estabilización en vuelo.
 
